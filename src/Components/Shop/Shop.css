@@ -1,0 +1,10 @@
+.shop-con {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+.products-con {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 45px;
+}
