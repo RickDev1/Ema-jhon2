@@ -10,6 +10,10 @@
     margin: 100px 50px;
 }
 
+.cart-con {
+    background-color: burlywood;
+}
+
 @media screen and (max-width:1100px) {
     .products-con {
         grid-template-columns: repeat(2, 1fr);
